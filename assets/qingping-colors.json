@@ -1,0 +1,90 @@
+{
+  "colors": [
+    {
+      "key": "primary",
+      "role": "主色",
+      "name": "青萍青",
+      "hex": "#1FB6AE",
+      "pantone": "326 C",
+      "use": "品牌识别与主要视觉，以当前青萍青为主色。",
+      "rgb": [
+        31,
+        182,
+        174
+      ],
+      "cmyk": [
+        69,
+        2,
+        32,
+        0
+      ],
+      "pantone_url": "https://www.pantone.com/color-finder/326-c",
+      "pantone_status": "近似参考，待实体色卡与打样核准；非精确匹配"
+    },
+    {
+      "key": "text",
+      "role": "文字色",
+      "name": "字标青蓝",
+      "hex": "#009DB5",
+      "pantone": "7710 C",
+      "use": "沿用 Logo 字标青蓝色，用于字标、品牌标题与大字号强调文字。",
+      "rgb": [
+        0,
+        157,
+        181
+      ],
+      "cmyk": [
+        77,
+        11,
+        16,
+        3
+      ],
+      "pantone_url": "https://www.pantone.com/color-finder/7710-c",
+      "pantone_status": "近似参考，待实体色卡与打样核准；非精确匹配"
+    },
+    {
+      "key": "blue",
+      "role": "辅助色",
+      "name": "青萍蓝",
+      "hex": "#006AB7",
+      "pantone": "3005 C",
+      "use": "用于图形、信息分区与渐变深色端。",
+      "rgb": [
+        0,
+        106,
+        183
+      ],
+      "cmyk": [
+        85,
+        53,
+        0,
+        0
+      ],
+      "pantone_url": "https://www.pantone.com/color-finder/3005-c",
+      "pantone_status": "近似参考，待实体色卡与打样核准；非精确匹配"
+    },
+    {
+      "key": "mint",
+      "role": "辅助色",
+      "name": "亮青",
+      "hex": "#35ECDD",
+      "pantone": "3255 C",
+      "use": "用于点缀、图形高光与渐变亮色端。",
+      "rgb": [
+        53,
+        236,
+        221
+      ],
+      "cmyk": [
+        43,
+        0,
+        20,
+        0
+      ],
+      "pantone_url": "https://www.pantone.com/color-finder/3255-c",
+      "pantone_status": "近似参考，待实体色卡与打样核准；非精确匹配"
+    }
+  ],
+  "cmyk_profile": "sRGB → Generic CMYK Profile（Apple 系统配置），相对比色，通道百分比四舍五入为整数。",
+  "print_note": "CMYK 为上述色彩配置下的转换参考值，不是 Pantone 官方 CMYK 配方。实际印刷需按印厂、纸张及 ICC 配置重新分色并打样。Pantone 为 Solid Coated（C，涂布纸）近似专色候选，由页面设计选作参考，未经实体色卡比对，不代表 Pantone 官方最近色或已确认品牌专色。非涂布纸需重新选取 U 色号。"
+}

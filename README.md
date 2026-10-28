@@ -2,7 +2,9 @@
 
 青萍品牌规范、素材与单页网站。
 
-- 品牌色：**青萍青** `#1FB6AE`，RGB `31, 182, 174`
+- 主色：**青萍青** `#1FB6AE`；文字色：**字标青蓝** `#009DB5`
+- 辅助色：**青萍蓝** `#006AB7`、**亮青** `#35ECDD`
+- 各色提供 HEX / RGB / CMYK（指定配置参考）/ PANTONE C（近似候选，待实体打样核准）
 - Logo：白色 Qingping 字标，保留原始青蓝渐变背景
 - Favicon：白色单字母 Q，包含 ICO 与多个尺寸 PNG
 
@@ -14,7 +16,8 @@
 - `assets/qingping-wordmark-white.svg`：透明底白色矢量字标（路径，无字体依赖）
 - `assets/qingping-logo-vector-grid.svg`：矢量 Logo 网格参考图
 - `assets/favicon/`：Favicon 素材和说明
-- `assets/qingping-color.txt`：品牌色值
+- `assets/qingping-color.txt`：色彩规范及印刷参考说明
+- `assets/qingping-colors.json`：结构化色彩值、转换配置和 Pantone 参考来源
 - `assets/qingping-brand-kit 2/`：用户提供的 7 SVG、30 个尺寸 PNG、总览图及使用说明
 - `assets/qingping-brand-kit.zip`：品牌包下载（原文件保持不变）
 - `assets/qingping-brand-assets.zip`：全部素材下载包
@@ -32,7 +35,7 @@ python3 -m http.server 8765
 
 ## 规范状态
 
-品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域使用品牌包的七种 SVG 预览，并提供 SVG 与常用尺寸 PNG 下载；网格 SVG 供参考。品牌标准色为 #1FB6AE，品牌包字标青蓝色为 #009DB5。印刷色值、安全留白及最小使用尺寸待补充确认。
+品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域使用品牌包的七种 SVG 预览，并提供 SVG 与常用尺寸 PNG 下载；网格 SVG 供参考。品牌标准色为 #1FB6AE，品牌包字标青蓝色为 #009DB5。CMYK 以 Apple Generic CMYK Profile 相对比色转换，Pantone 为近似专色候选；正式印刷规格需打样核准。安全留白及最小使用尺寸待补充确认。
 
 ## 发布
 

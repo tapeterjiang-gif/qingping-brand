@@ -6,3 +6,5 @@ qingping-logo-vector-grid.svg：矢量网格参考图，不用于正式应用。
 
 网页中的 Logo 预览均使用 SVG；PNG 仅作为指定尺寸下载。品牌标准色 #1FB6AE，品牌包字标青蓝色 #009DB5。
 旧 SVG 链接保留兼容；原始 logo.png 与旧网格 PNG 保留在本地目录，不纳入下载包。
+
+色彩规范已更新：主色 #1FB6AE，文字色 #009DB5，辅助色 #006AB7 / #35ECDD。CMYK 及 Pantone 近似参考见 qingping-color.txt 或品牌包中的 色彩规范.md。
