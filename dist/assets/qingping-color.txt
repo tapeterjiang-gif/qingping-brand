@@ -1,0 +1,6 @@
+Qingping 青萍品牌标准色
+HEX: #1FB6AE
+RGB: 31, 182, 174
+
+现有 Logo 与 favicon 保留原始青蓝渐变。
+印刷色值待确认。
