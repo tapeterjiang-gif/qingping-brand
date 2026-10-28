@@ -35,7 +35,7 @@ python3 -m http.server 8765
 
 ## 规范状态
 
-品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域使用品牌包的七种 SVG 预览，并提供 SVG 与常用尺寸 PNG 下载；网格 SVG 供参考。品牌标准色为 #1FB6AE，品牌包字标青蓝色为 #009DB5。CMYK 以 Apple Generic CMYK Profile 相对比色转换，Pantone 为近似专色候选；正式印刷规格需打样核准。安全留白及最小使用尺寸待补充确认。
+品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域仅展示 qingping-logo-vector.svg、qingping-logo-vector-grid.svg、qingping-wordmark-white.svg 三个 SVG 及对应下载。完整品牌包保留于素材下载中。品牌标准色为 #1FB6AE，品牌包字标青蓝色为 #009DB5。CMYK 以 Apple Generic CMYK Profile 相对比色转换，Pantone 为近似专色候选；正式印刷规格需打样核准。安全留白及最小使用尺寸待补充确认。
 
 ## 发布
 
