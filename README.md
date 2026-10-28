@@ -15,6 +15,8 @@
 - `assets/qingping-logo-vector-grid.svg`：矢量 Logo 网格参考图
 - `assets/favicon/`：Favicon 素材和说明
 - `assets/qingping-color.txt`：品牌色值
+- `assets/qingping-brand-kit 2/`：用户提供的 7 SVG、30 个尺寸 PNG、总览图及使用说明
+- `assets/qingping-brand-kit.zip`：品牌包下载（原文件保持不变）
 - `assets/qingping-brand-assets.zip`：全部素材下载包
 - `.openai/hosting.json`：Sites 发布配置
 
@@ -30,7 +32,7 @@ python3 -m http.server 8765
 
 ## 规范状态
 
-品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域的预览、下载及素材包中的 Logo 均使用矢量版本；原始 PNG 文件保留在本地目录。印刷色值、安全留白及最小使用尺寸待补充确认。
+品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域使用品牌包的七种 SVG 预览，并提供 SVG 与常用尺寸 PNG 下载；网格 SVG 供参考。品牌标准色为 #1FB6AE，品牌包字标青蓝色为 #009DB5。印刷色值、安全留白及最小使用尺寸待补充确认。
 
 ## 发布
 
