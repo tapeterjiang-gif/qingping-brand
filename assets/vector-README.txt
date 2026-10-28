@@ -8,3 +8,5 @@ qingping-logo-vector-grid.svg：矢量网格参考图，不用于正式应用。
 旧 SVG 链接保留兼容；原始 logo.png 与旧网格 PNG 保留在本地目录，不纳入下载包。
 
 色彩规范已更新：主色 #1FB6AE，文字色 #009DB5，辅助色 #006AB7 / #35ECDD。CMYK 及 Pantone 近似参考见 qingping-color.txt 或品牌包中的 色彩规范.md。
+
+新增 Q Logo：qingping-q-vector.svg、qingping-q-vector-grid.svg、qingping-q-white.svg。均直接使用原 Qingping 的 Q 路径，等比缩放居中。套装下载：qingping-q-logos.zip。

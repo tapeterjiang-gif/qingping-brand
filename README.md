@@ -12,6 +12,8 @@
 
 - `index.html`：品牌规范页面
 - `style.css`、`app.js`：页面样式与色值复制功能
+- `assets/qingping-q-vector.svg`、`assets/qingping-q-vector-grid.svg`、`assets/qingping-q-white.svg`：三种 Q Logo
+- `assets/qingping-q-logos.zip`：Q Logo 矢量套装与说明
 - `assets/qingping-logo-vector.svg`：渐变背景矢量 Logo
 - `assets/qingping-wordmark-white.svg`：透明底白色矢量字标（路径，无字体依赖）
 - `assets/qingping-logo-vector-grid.svg`：矢量 Logo 网格参考图
@@ -35,7 +37,7 @@ python3 -m http.server 8765
 
 ## 规范状态
 
-品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域仅展示 qingping-logo-vector.svg、qingping-logo-vector-grid.svg、qingping-wordmark-white.svg 三个 SVG 及对应下载。完整品牌包保留于素材下载中。品牌标准色为 #1FB6AE，品牌包字标青蓝色为 #009DB5。CMYK 以 Apple Generic CMYK Profile 相对比色转换，Pantone 为近似专色候选；正式印刷规格需打样核准。安全留白及最小使用尺寸待补充确认。
+品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域展示 qingping-logo-vector.svg、qingping-logo-vector-grid.svg、qingping-wordmark-white.svg 三个原版 SVG，以及提取自同一 Q 路径的渐变、网格、透明底白色三个 Q Logo。完整品牌包保留于素材下载中。品牌标准色为 #1FB6AE，品牌包字标青蓝色为 #009DB5。CMYK 以 Apple Generic CMYK Profile 相对比色转换，Pantone 为近似专色候选；正式印刷规格需打样核准。安全留白及最小使用尺寸待补充确认。
 
 ## 发布
 
