@@ -13,4 +13,4 @@ qingping-logo-vector-grid.svg：矢量网格参考图，不用于正式应用。
 
 新增紧裁切字标：qingping-wordmark-cyan.svg / qingping-wordmark-white.svg。原方形白色 Logo 为 qingping-logo-white.svg。旧 Favicon 已从页面及下载包移除。
 
-轮廓修订：Q 尾巴与圆圈外缘连接处的小缺口已修补为连续曲线，相关 SVG 与导出 PNG 均同步更新。
+轮廓修订：Q 尾巴与圆圈外缘连接处的小缺口已按确认版本修订为直线边与锐角衔接，相关 SVG 与导出 PNG 均同步更新。

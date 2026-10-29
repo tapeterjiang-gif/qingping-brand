@@ -54,4 +54,4 @@ GitHub Pages 从 `main` 分支根目录发布。根目录的 `.nojekyll` 使页�
 
 原有 Sites 页面：<https://qingping-brand-guide.violetgleam9.chatgpt.site/>。
 
-Q 轮廓已修补：尾巴与圆圈连接处为连续曲线，Logo、字标、Q Logo 及品牌包导出文件保持一致。
+Q 轮廓已修补：尾巴使用直线轮廓与清晰锐角，保持圆圈自然衔接，Logo、字标、Q Logo 及品牌包导出文件保持一致。
