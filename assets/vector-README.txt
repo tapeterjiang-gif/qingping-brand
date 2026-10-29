@@ -1,6 +1,6 @@
 Qingping 品牌素材
 
-qingping-brand-kit 2/：7 个 SVG 应用版本、30 个尺寸 PNG、总览图及使用说明，用户提供的原文件保持不变。详见其中的 使用说明.md。
+qingping-brand-kit 2/：7 个 SVG 应用版本、30 个尺寸 PNG、总览图及使用说明，源自用户提供素材，Q 的连接处已统一修补。详见其中的 使用说明.md。
 qingping-brand-kit.zip：上述品牌包的完整下载。
 qingping-logo-vector-grid.svg：矢量网格参考图，不用于正式应用。
 
@@ -12,3 +12,5 @@ qingping-logo-vector-grid.svg：矢量网格参考图，不用于正式应用。
 新增 Q Logo：qingping-q-vector.svg、qingping-q-vector-grid.svg、qingping-q-white.svg。均直接使用原 Qingping 的 Q 路径，等比缩放居中。套装下载：qingping-q-logos.zip。
 
 新增紧裁切字标：qingping-wordmark-cyan.svg / qingping-wordmark-white.svg。原方形白色 Logo 为 qingping-logo-white.svg。旧 Favicon 已从页面及下载包移除。
+
+轮廓修订：Q 尾巴与圆圈外缘连接处的小缺口已修补为连续曲线，相关 SVG 与导出 PNG 均同步更新。
