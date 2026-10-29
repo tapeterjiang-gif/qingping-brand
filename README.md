@@ -32,6 +32,10 @@ SVG 为真实矢量路径，不依赖字体，可等比缩放。白色版本请�
 
 原 Favicon 分类已从页面和当前全部素材包中移除，历史素材保留在仓库中。
 
+## 网站图标
+
+提供 [SVG favicon](assets/icons/favicon.svg)、PWA 192 / 512 PNG、自适应 Maskable 512 PNG 及其 SVG 源文件。引用方式见 [图标说明](assets/icons/README.md)，网站入口已接入 [site.webmanifest](site.webmanifest)。图标支持现代浏览器与 PWA 场景，不包含旧格式兼容导出。
+
 ## 本地查看
 
 无需安装依赖，在此目录运行：

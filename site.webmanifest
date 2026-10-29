@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Qingping Brand · 青萍品牌规范",
+  "short_name": "Qingping",
+  "description": "青萍品牌色、Logo、字标与 Q Logo 素材中心",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#1FB6AE",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
