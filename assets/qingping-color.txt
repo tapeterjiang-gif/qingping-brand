@@ -1,39 +1,32 @@
 Qingping 品牌色彩规范
 
-主色 · 青萍绿
+青萍绿
 HEX: #1FB6AE
 RGB: 31, 182, 174
 CMYK（参考，%）: C69 / M2 / Y32 / K0
 PANTONE（近似参考，待核准）: 326 C
-用途: 品牌识别与主要视觉，以当前青萍绿为主色。
 色卡来源: https://www.pantone.com/color-finder/326-c
 
-文字色 · 青萍青
+青萍青
 HEX: #009DB5
 RGB: 0, 157, 181
 CMYK（参考，%）: C77 / M11 / Y16 / K3
 PANTONE（近似参考，待核准）: 7710 C
-用途: 沿用 Logo 青萍青色，用于字标、品牌标题与大字号强调文字。
 色卡来源: https://www.pantone.com/color-finder/7710-c
 
-品牌色 · 青萍蓝
+青萍蓝
 HEX: #073B53
 RGB: 7, 59, 83
 CMYK（参考，%）: C91 / M54 / Y26 / K44
 PANTONE（近似参考，待核准）: 3035 C
-用途: 用于图形、信息分区与深色品牌强调。
 色卡来源: https://www.pantone.com/color-finder/3035-c
 
-辅助色 · 亮青
+亮青
 HEX: #35ECDD
 RGB: 53, 236, 221
 CMYK（参考，%）: C43 / M0 / Y20 / K0
 PANTONE（近似参考，待核准）: 3255 C
-用途: 用于点缀、图形高光与渐变亮色端。
 色卡来源: https://www.pantone.com/color-finder/3255-c
-
-颜色使用
-主色为 #1FB6AE；文字色为 #009DB5。文字色用于字标及大字号品牌标题，小字号正文使用深色。青萍蓝作为品牌色用于图形与信息分区；亮青作为辅助色用于少量点缀。现有 Logo 的渐变保持 #006AB7 → #35ECDD。
 
 印刷说明
 sRGB → Generic CMYK Profile（Apple 系统配置），相对比色，通道百分比四舍五入为整数。
