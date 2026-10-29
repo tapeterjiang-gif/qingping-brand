@@ -4,7 +4,7 @@
 
 | 文件 | 场景 |
 | --- | --- |
-| favicon.svg | 浏览器标签、收藏夹；同时作为常规 PWA 图标的矢量源 |
+| favicon.svg | 浏览器标签、收藏夹；背景圆角约 20%（1254 画幅，rx=251） |
 | icon-192.png | 192 × 192 常规 PWA 图标 |
 | icon-512.png | 512 × 512 常规 PWA 图标 |
 | icon-maskable.svg | 自适应图标的矢量源 |
@@ -30,3 +30,5 @@ manifest 的 id、start_url、scope 均为 ./，图标路径相对 manifest 解�
 未包含旧浏览器 ICO、Apple Touch 图标或 16/32 px PNG。这里提供图标和 manifest；未加入离线缓存，安装入口是否出现由浏览器决定。
 
 规范参考：https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Define_app_icons
+
+圆角规则：仅 SVG favicon 的背景使用约 20% 圆角。常规 PWA PNG、Maskable PNG 与其 SVG 源文件继续保留方形、不透明背景，由系统裁切。
