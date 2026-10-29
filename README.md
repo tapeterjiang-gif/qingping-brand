@@ -1,47 +1,55 @@
-# Qingping Brand
+# Qingping Brand · 青萍品牌规范
 
-青萍品牌规范、素材与单页网站。
+[在线查看品牌说明页面](https://tapeterjiang-gif.github.io/qingping-brand/) · [下载全部品牌素材](assets/qingping-brand-assets.zip)
 
-- 主色：**青萍绿** `#1FB6AE`；文字色：**青萍青** `#009DB5`
-- 品牌色：**青萍蓝** `#006AB7`；辅助色：**亮青** `#35ECDD`
-- 各色提供 HEX / RGB / CMYK（指定配置参考）/ PANTONE C（近似候选，待实体打样核准）
-- Logo：白色 Qingping 字标，保留原始青蓝渐变背景
-- 字标：青蓝 / 白色透明底紧裁切 SVG，位于 Logo 与 Q Logo 之间
+青萍的品牌色、矢量 Logo、字标与 Q Logo 素材中心。说明页面提供色值复制和 SVG 单独下载，支持桌面及手机浏览。
 
-## 文件
+## 品牌色
 
-- `index.html`：品牌规范页面
-- `style.css`、`app.js`：页面样式与色值复制功能
-- `assets/qingping-q-vector.svg`、`assets/qingping-q-vector-grid.svg`、`assets/qingping-q-white.svg`：三种 Q Logo
-- `assets/qingping-q-logos.zip`：Q Logo 矢量套装与说明
-- `assets/qingping-logo-vector.svg`：渐变背景矢量 Logo
-- `assets/qingping-logo-white.svg`：原方形透明底白色 Logo
-- `assets/qingping-wordmark-cyan.svg`、`assets/qingping-wordmark-white.svg`：透明底紧裁切字标
-- `assets/qingping-wordmarks.zip`：字标矢量套装
-- `assets/qingping-logo-vector-grid.svg`：矢量 Logo 网格参考图
-- `assets/qingping-color.txt`：色彩规范及印刷参考说明
-- `assets/qingping-colors.json`：结构化色彩值、转换配置和 Pantone 参考来源
-- `assets/qingping-brand-kit 2/`：用户提供的 7 SVG、30 个尺寸 PNG、总览图及使用说明
-- `assets/qingping-brand-kit.zip`：品牌包下载（原文件保持不变）
-- `assets/qingping-brand-assets.zip`：全部素材下载包
-- `.openai/hosting.json`：Sites 发布配置
+| 角色 | 名称 | HEX | RGB |
+| --- | --- | --- | --- |
+| 主色 | 青萍绿 | `#1FB6AE` | 31, 182, 174 |
+| 文字色 | 青萍青 | `#009DB5` | 0, 157, 181 |
+| 品牌色 | 青萍蓝 | `#006AB7` | 0, 106, 183 |
+| 辅助色 | 亮青 | `#35ECDD` | 53, 236, 221 |
+
+青萍绿、青萍青、青萍蓝列于品牌色分区；亮青用于辅助点缀。各色的 CMYK 和 Pantone 参考详见在线说明页及 [色彩规范](assets/qingping-color.txt)。CMYK 按 Apple Generic CMYK Profile 相对比色转换；Pantone 为涂布纸近似候选，正式印刷需使用实体色卡及打样核准。
+
+## 矢量素材
+
+- **Logo**：[渐变背景版](assets/qingping-logo-vector.svg)、[网格参考版](assets/qingping-logo-vector-grid.svg)、[透明底白色版](assets/qingping-logo-white.svg)。
+- **字标 Wordmark**：[青萍青文字版](assets/qingping-wordmark-cyan.svg)、[白色文字版](assets/qingping-wordmark-white.svg)。透明背景，裁去多余留白，路径与字距沿用现有 Logo。
+- **Q Logo**：[渐变背景版](assets/qingping-q-vector.svg)、[网格参考版](assets/qingping-q-vector-grid.svg)、[透明底白色版](assets/qingping-q-white.svg)。Q 字形直接提取自现有 Logo，等比缩放并居中。
+
+SVG 为真实矢量路径，不依赖字体，可等比缩放。白色版本请放在深色背景上查看；网格版供比例与位置参考。完整品牌包还包含七种应用版本、30 个尺寸 PNG 和使用说明。
+
+## 使用建议
+
+1. 等比缩放，保持字形、字距和配色。
+2. 渐变背景版保留完整画面；紧裁切字标按使用场景设置留白。
+3. 小尺寸场景优先使用 Q Logo，并检查实际显示效果。
+4. 完整字标建议显示宽度不低于 120 px；安全留白及正式最小尺寸待确认。
+
+原 Favicon 分类已从页面和当前全部素材包中移除，历史素材保留在仓库中。
 
 ## 本地查看
 
-在仓库目录运行：
+无需安装依赖，在此目录运行：
 
 ```sh
 python3 -m http.server 8765
 ```
 
-打开 http://localhost:8765 。页面无需安装依赖或构建。
+打开 <http://localhost:8765>。
 
-## 规范状态
+## 网页发布
 
-品牌色与现有素材已确认。页面中的使用原则为建议；已采用用户提供的已完成渐变背景和透明底白色 SVG，和网格参考 SVG。Logo 区域展示 qingping-logo-vector.svg、qingping-logo-vector-grid.svg、qingping-logo-white.svg 三个原版 SVG，以及提取自同一 Q 路径的渐变、网格、透明底白色三个 Q Logo。完整品牌包保留于素材下载中。品牌标准色为 #1FB6AE，品牌包青萍青色为 #009DB5。CMYK 以 Apple Generic CMYK Profile 相对比色转换，Pantone 为近似专色候选；正式印刷规格需打样核准。安全留白及最小使用尺寸待补充确认。
+GitHub Pages 从 `main` 分支根目录发布。根目录的 `.nojekyll` 使页面按静态 HTML、CSS、JavaScript 和 SVG 文件直接提供，后续推送到 `main` 后会自动更新。
 
-## 发布
+- `index.html`：品牌说明页面。
+- `style.css`、`app.js`：页面样式与色值复制功能。
+- `assets/`：矢量及 PNG 素材、色彩规范和下载包。
+- `build.py`：为原有 Sites 发布生成 `dist/`。
+- `.openai/hosting.json`：原有 Sites 配置。
 
-页面入口和素材位于仓库根目录。运行 `python3 build.py` 将页面复制到忽略提交的 `dist/`，供 Sites 发布使用。
-
-原 Favicon 分类、网页图标引用及素材下载包中的旧 Favicon 已移除；历史文件保留在本地目录。
+原有 Sites 页面：<https://qingping-brand-guide.violetgleam9.chatgpt.site/>。
