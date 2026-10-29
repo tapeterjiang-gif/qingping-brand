@@ -1,9 +1,9 @@
 Qingping 字标 / Wordmark
 
-qingping-wordmark-cyan.svg：透明底青蓝字标，#009DB5。
-qingping-wordmark-white.svg：透明底白色字标，#FFFFFF，适合深色背景。
+qingping-wordmark-green.svg：青萍绿，透明背景，#1FB6AE。
+qingping-wordmark-cyan.svg：青萍青，透明背景，#009DB5。
+qingping-wordmark-blue.svg：青萍蓝，透明背景，#006AB7。
+qingping-wordmark-white.svg：白色文字版，透明背景，#FFFFFF。
 
-路径与字距沿用 qingping-logo-vector.svg；无重新排字，无字体依赖，无位图。画布紧贴全部字形边界，使用时按比例缩放并设置场景所需留白。
-原方形留白白色 Logo 保存在 qingping-logo-white.svg。
-
-轮廓修订：Q 尾巴与圆圈外缘连接处的小缺口已按确认版本修订为直线边与锐角衔接，相关 SVG 与导出 PNG 均同步更新。
+三种品牌色版本替换原“青蓝文字版”的展示名称；青萍青仍使用 qingping-wordmark-cyan.svg 文件名。白色版本适合深色背景。
+四种版本共用已确认的紧裁切文字轮廓与直线锐角 Q 尾巴，字距、画幅、比例保持一致，无字体依赖，无嵌入位图。

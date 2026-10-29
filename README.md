@@ -18,7 +18,7 @@
 ## 矢量素材
 
 - **Logo**：[渐变背景版](assets/qingping-logo-vector.svg)、[网格参考版](assets/qingping-logo-vector-grid.svg)、[透明底白色版](assets/qingping-logo-white.svg)。
-- **字标 Wordmark**：[青萍青文字版](assets/qingping-wordmark-cyan.svg)、[白色文字版](assets/qingping-wordmark-white.svg)。透明背景，裁去多余留白，路径与字距沿用现有 Logo。
+- **字标 Wordmark**：[青萍绿](assets/qingping-wordmark-green.svg)、[青萍青](assets/qingping-wordmark-cyan.svg)、[青萍蓝](assets/qingping-wordmark-blue.svg)、[白色文字版](assets/qingping-wordmark-white.svg)。透明背景，裁去多余留白，路径与字距沿用现有 Logo。
 - **Q Logo**：[渐变背景版](assets/qingping-q-vector.svg)、[网格参考版](assets/qingping-q-vector-grid.svg)、[透明底白色版](assets/qingping-q-white.svg)。Q 字形直接提取自现有 Logo，等比缩放并居中。
 
 SVG 为真实矢量路径，不依赖字体，可等比缩放。白色版本请放在深色背景上查看；网格版供比例与位置参考。完整品牌包还包含七种应用版本、30 个尺寸 PNG 和使用说明。
