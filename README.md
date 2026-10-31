@@ -61,3 +61,5 @@ GitHub Pages 从 `main` 分支根目录发布。根目录的 `.nojekyll` 使页�
 Q 轮廓已修补：尾巴使用直线轮廓与清晰锐角，保持圆圈自然衔接，Logo、字标、Q Logo 及品牌包导出文件保持一致。
 
 网站图标圆角：SVG favicon 背景约 20%（rx=251 / 1254）；PWA 和 Maskable 图标保留完整方形背景。
+
+Android 原生 App 图标素材包、预览与接入说明位于 `assets/android/`。
