@@ -63,3 +63,5 @@ Q 轮廓已修补：尾巴使用直线轮廓与清晰锐角，保持圆圈自然
 网站图标圆角：SVG favicon 背景约 20%（rx=251 / 1254）；PWA 和 Maskable 图标保留完整方形背景。
 
 Android 原生 App 图标素材包、预览与接入说明位于 `assets/android/`。
+
+iOS / iPadOS 图标素材包、预览与接入说明位于 `assets/ios/`。
