@@ -21,3 +21,5 @@
 .web-icon-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:24px 0}.web-icon-preview{height:180px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;background:#f7f9f8}.web-icon-preview>img{display:block}.favicon-sizes{display:flex;align-items:center;gap:20px}.favicon-sizes img{display:block}.maskable-round{border-radius:50%}.icon-downloads{display:flex;flex-wrap:wrap;gap:8px 18px}.web-icon-gallery .kit-card p{min-height:52px}@media(max-width:760px){.web-icon-gallery{grid-template-columns:1fr}.web-icon-gallery .kit-card p{min-height:0}}
 
 .android-preview{display:block;width:100%;height:auto;margin:20px 0 8px}
+
+.slogan-group{margin:22px 0}.slogan-group h3{font-size:14px;font-weight:500;margin:0 0 12px}.slogan-row{display:flex;align-items:center;gap:16px;padding:10px 0}.slogan-language{width:54px;flex-shrink:0;font-size:12px;color:var(--muted)}.slogan-row p{margin:0;flex:1;font-size:19px;line-height:1.6}.slogan-row button{flex-shrink:0}@media(max-width:600px){.slogan-row{gap:10px}.slogan-language{width:42px;font-size:11px}.slogan-row p{font-size:16px}}

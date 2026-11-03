@@ -4,6 +4,14 @@
 
 青萍的品牌色、矢量 Logo、字标与 Q Logo 素材中心。说明页面提供色值复制和 SVG 单独下载，支持桌面及手机浏览。
 
+## Slogan
+
+主 Slogan：**看见环境。** / **See your environment.**
+
+展开文案：**看见环境，让舒适有据可依。** / **See your environment. Know your comfort.**
+
+保持以上文字、大小写与标点；按场景分层使用。[下载文案](assets/qingping-slogan.txt)。
+
 ## 品牌色
 
 | 名称 | HEX | RGB |
