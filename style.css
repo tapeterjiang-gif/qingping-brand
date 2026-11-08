@@ -33,8 +33,8 @@
 .brand-lockup img{display:block;width:100%;height:auto}
 .brand-lockup.stacked{width:240px;max-width:100%;display:flex;flex-direction:column;align-items:center;gap:24px}
 .lockup-tagline{display:block;white-space:nowrap}
-.brand-lockup .zh{font-family:"PingFang SC","Source Han Sans SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif;font-weight:400}
-.brand-lockup .en{font-family:Arial,sans-serif;font-weight:400}
+.brand-lockup .zh{font-family:"Qingping Brand Preview Sans","Source Han Sans SC",sans-serif;font-weight:400}
+.brand-lockup .en{font-family:Inter,sans-serif;font-weight:400}
 .stacked .lockup-tagline{font-size:18px}
 .horizontal-stage{min-height:210px}
 .brand-lockup.horizontal{display:flex;align-items:center;gap:38.4px}
@@ -65,3 +65,39 @@
 .extended .zh{font-size:21px}
 .extended .en{font-size:14px;margin-top:8px}
 }
+
+@font-face{font-family:Inter;src:url("assets/fonts/InterVariable.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
+@font-face{font-family:"Qingping Brand Preview Sans";src:url("assets/fonts/QingpingBrandPreviewSans.woff2") format("woff2");font-weight:250 900;font-style:normal;font-display:swap}
+body{font-family:Inter,"Qingping Brand Preview Sans","Source Han Sans SC",sans-serif;font-synthesis:none}
+.type-families{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:26px 0 32px}
+.type-families>div{border-top:1px solid var(--line);padding-top:18px;min-width:0}
+.type-families h3{font-size:14px;color:var(--muted)}
+.type-specimen-cn{font-size:30px;line-height:1.65;font-weight:400}
+.type-specimen-en{font-size:25px;line-height:1.65;letter-spacing:-.02em}
+.type-rules{margin-top:16px}.type-rules th[scope="row"]{background:transparent;color:var(--ink);font-weight:400}
+.type-rules td:last-child{text-align:left}
+.type-examples{display:grid;grid-template-columns:1fr 1fr;gap:28px 24px;margin:28px 0}
+.type-example{margin:0;min-width:0}.type-example-wide{grid-column:1/-1}
+.type-demo{background:#f7f9f8;padding:32px;color:#073b53;min-height:360px}
+.package-demo{display:flex;flex-direction:column;align-items:flex-start;justify-content:space-between}
+.package-demo img{width:125px;height:auto}
+.type-demo .type-demo-title{font-size:32px;font-weight:500;margin:30px 0 8px;line-height:1.3}
+.type-demo-subtitle{font-size:14px;line-height:1.5;max-width:24em;margin:0}
+.package-tagline{font-size:16px;margin:24px 0 0}
+.type-demo-label{font-size:12px;color:#58696d}
+.manual-demo h4{font-size:21px;font-weight:500;margin:22px 0 14px;line-height:1.4}
+.manual-demo p{font-size:14px;line-height:1.65;margin:0 0 16px}
+.manual-demo p[lang="en"]{font-size:13px;line-height:1.5}
+.manual-demo .manual-note{font-size:12px;border-top:1px solid #dbe3e3;padding-top:12px;margin:20px 0 0}
+.manual-note strong{font-weight:700;margin-right:8px}
+.readings-demo{display:grid;grid-template-columns:1fr 1fr;gap:24px;min-height:0;padding:36px 32px}
+.readings-demo>div>span{font-size:13px}
+.readings-demo>div>span span{display:block;font-size:12px;color:#58696d}
+.readings-demo .reading-number{font-family:Inter,sans-serif;font-variant-numeric:tabular-nums;font-size:50px;line-height:1.2;letter-spacing:-.03em;margin:18px 0 0;font-weight:400;text-align:right}
+.reading-number span{font-size:22px;letter-spacing:0}
+.readings-demo>.caption{grid-column:1/-1;font-size:12px;margin:0}
+.type-example figcaption{padding-top:14px}
+.type-example figcaption h3{font-size:15px;margin:0 0 6px;font-weight:500}
+.type-example figcaption p{font-size:14px;color:var(--muted);margin:0}
+.type-guidelines li{font-size:14px}
+@media(max-width:600px){.type-families,.type-examples{grid-template-columns:1fr}.type-specimen-cn{font-size:27px}.type-specimen-en{font-size:23px}.type-demo{padding:26px;min-height:340px}.readings-demo{padding:26px 20px;gap:18px;min-height:0}.readings-demo .reading-number{font-size:36px}.reading-number span{font-size:18px}}
