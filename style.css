@@ -101,3 +101,5 @@ body{font-family:Inter,"Qingping Brand Preview Sans","Source Han Sans SC",sans-s
 .type-example figcaption p{font-size:14px;color:var(--muted);margin:0}
 .type-guidelines li{font-size:14px}
 @media(max-width:600px){.type-families,.type-examples{grid-template-columns:1fr}.type-specimen-cn{font-size:27px}.type-specimen-en{font-size:23px}.type-demo{padding:26px;min-height:340px}.readings-demo{padding:26px 20px;gap:18px;min-height:0}.readings-demo .reading-number{font-size:36px}.reading-number span{font-size:18px}}
+
+.lockup-export>img{display:block;width:100%;max-width:420px;height:auto}
