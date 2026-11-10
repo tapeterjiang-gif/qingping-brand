@@ -1,6 +1,6 @@
 # Qingping P 姐妹网站图标
 
-从 Qingping 字标提取小写 p 原路径，保持字形比例。与 Q 图标沿用青蓝渐变、白色前景、相同的可见高度和约 20% 圆角。
+使用大写 P，按 Q 的笔画粗细与圆弧风格绘制，保持大写字母比例。与 Q 图标沿用青蓝渐变、白色前景、相同的可见高度和约 20% 圆角。
 favicon.svg 用于浏览器标签；PNG 16/32/48 与 favicon.ico 用于兼容。
 icon-192.png、icon-512.png 为方形 PWA 图标；icon-maskable-512.png 为具有安全留白的自适应版。
 apple-touch-icon.png 为 180 px 方形图标，由系统应用圆角。
