@@ -9,14 +9,14 @@
 | icon-512.png | 512 × 512 常规 PWA 图标 |
 | icon-maskable.svg | 自适应图标的矢量源 |
 | icon-maskable-512.png | 512 × 512 自适应 PWA 图标 |
-| ../../site.webmanifest | 网站安装外观、名称、路径与图标配置 |
+| ../../../site.webmanifest | 网站安装外观、名称、路径与图标配置 |
 
 ## 引用
 
-将 site.webmanifest 放在网站入口同级，图标放在 assets/icons/，在 HTML 的 head 内加入：
+将 site.webmanifest 放在网站入口同级，图标放在 assets/icons/web/，在 HTML 的 head 内加入：
 
 ```html
-<link rel="icon" type="image/svg+xml" sizes="any" href="./assets/icons/favicon.svg">
+<link rel="icon" type="image/svg+xml" sizes="any" href="./assets/icons/web/favicon.svg">
 <link rel="manifest" href="./site.webmanifest">
 <meta name="theme-color" content="#1FB6AE">
 ```

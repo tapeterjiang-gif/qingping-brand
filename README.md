@@ -42,7 +42,7 @@ SVG 为真实矢量路径，不依赖字体，可等比缩放。白色版本请�
 
 ## 网站图标
 
-提供 [SVG favicon](assets/icons/favicon.svg)、PWA 192 / 512 PNG、自适应 Maskable 512 PNG 及其 SVG 源文件。引用方式见 [图标说明](assets/icons/README.md)，网站入口已接入 [site.webmanifest](site.webmanifest)。图标支持现代浏览器与 PWA 场景，不包含旧格式兼容导出。
+提供 [SVG favicon](assets/icons/web/favicon.svg)、PWA 192 / 512 PNG、自适应 Maskable 512 PNG 及其 SVG 源文件。引用方式见 [图标说明](assets/icons/web/README.md)，网站入口已接入 [site.webmanifest](site.webmanifest)。图标支持现代浏览器与 PWA 场景，不包含旧格式兼容导出。
 
 ## 本地查看
 
@@ -70,6 +70,10 @@ Q 轮廓已修补：尾巴使用直线轮廓与清晰锐角，保持圆圈自然
 
 网站图标圆角：SVG favicon 背景约 20%（rx=251 / 1254）；PWA 和 Maskable 图标保留完整方形背景。
 
-Android 原生 App 图标素材包、预览与接入说明位于 `assets/android/`。
+Android 原生 App 图标素材包、预览与接入说明位于 `assets/icons/android/`。
 
-iOS / iPadOS 图标素材包、预览与接入说明位于 `assets/ios/`。
+iOS / iPadOS 图标素材包、预览与接入说明位于 `assets/icons/ios/`。
+
+## 素材目录
+
+所有图标集中在 `assets/icons/`，网站图标位于 `web/`（其中 `p/` 为姐妹图标），原生 App 图标位于 `ios/` 和 `android/`，历史图标位于 `favicon/`，网站图标下载包位于 `packages/`。
