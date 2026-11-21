@@ -107,3 +107,11 @@ body{font-family:Inter,"Qingping Brand Preview Sans","Source Han Sans SC",sans-s
 .sister-icons{margin-top:28px;padding-top:24px;border-top:1px solid var(--line)}.sister-icon-pair{display:flex;align-items:center;flex-wrap:wrap;gap:24px 36px;margin:22px 0}.sister-icon-pair figure{margin:0;text-align:center}.sister-icon-pair figure img{display:block}.sister-icon-pair figcaption{font-size:14px;color:var(--muted);margin-top:8px}
 
 .badge-logo{margin:24px 0 32px}.badge-logo-preview{padding:24px;background:#f7f9f8}.badge-logo-preview img{display:block;width:100%;max-width:640px;height:auto;margin:auto}@media(max-width:600px){.badge-logo-preview{padding:16px}}
+
+.company-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;margin-top:24px}
+.company-grid>div{min-width:0}
+.company-grid h3{font-size:18px;font-weight:500;line-height:1.6;margin-bottom:20px}
+.company-details>div{display:block;margin:0 0 16px}
+.company-details dt{width:auto;font-size:14px;margin-bottom:4px}
+.company-details dd{display:block;margin:0;font-size:16px;line-height:1.7;overflow-wrap:anywhere}
+@media(max-width:700px){.company-grid{grid-template-columns:1fr;gap:24px}}
