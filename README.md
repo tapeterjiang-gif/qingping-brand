@@ -23,6 +23,10 @@
 
 各色的 CMYK 和 Pantone 参考详见在线说明页及 [色彩规范](assets/qingping-color.txt)。CMYK 按 Apple Generic CMYK Profile 相对比色转换；Pantone 为涂布纸近似候选，正式印刷需使用实体色卡及打样核准。
 
+## 产品字标
+
+[QingCloud](assets/wordmarks/QingCloud-wordmark-blue.svg) 与 [QingEdge](assets/wordmarks/QingEdge-wordmark-blue.svg) 已加入页面 Logo 区域，均为青萍蓝透明底 SVG。
+
 ## 矢量素材
 
 - **Logo**：[渐变背景版](assets/qingping-logo-vector.svg)、[网格参考版](assets/qingping-logo-vector-grid.svg)、[透明底白色版](assets/qingping-logo-white.svg)。
